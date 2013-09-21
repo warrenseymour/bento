@@ -1,6 +1,8 @@
 bento
 =====
 
+[![Build Status](https://travis-ci.org/JonHMChan/bento.png?branch=gh-pages)](https://travis-ci.org/JonHMChan/bento)
+
 http://www.bentobox.io/
 
 Everything you need to know about web development. Neatly packaged.
